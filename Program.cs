@@ -70,7 +70,7 @@ else Console.WriteLine("Yes. It's normal number!");
 
 5 -> 2, 4
 8 -> 2, 4, 6, 8
-*/
+
 
 int number, remain, current;
 
@@ -90,5 +90,5 @@ Console.Write(current + " ");
 current = current + 1;
 }
 
-
+*/
 
